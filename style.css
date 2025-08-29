@@ -1,3 +1,4 @@
+
 html {
     height: 100%;
     background-color: rgb(45, 212, 16);
@@ -102,6 +103,11 @@ La siguiente parte es para las clases
     font-size: 16px;
     color: #4b1780;
     margin: 5px 0;
+}
+
+.espacio {
+    height: 32px;
+    width: 100%;
 }
 
 /*
